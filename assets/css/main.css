@@ -234,6 +234,13 @@ input, select, textarea {
 
 	}
 
+	@media screen and (max-width: 736px) {
+		.my-image{
+			width: 68px;
+		}
+
+	}
+
 	sub {
 		font-size: 0.8rem;
 		position: relative;
